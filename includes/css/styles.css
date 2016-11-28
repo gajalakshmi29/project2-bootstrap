@@ -1,0 +1,479 @@
+video
+{
+   width:100%;
+   height: auto;
+}
+body {
+   margin: 0;
+   padding: 0;
+   position: relative;
+   width: auto;
+}
+#jumbotron1
+{
+   background-color: pink;
+}
+footer {
+   text-align: center;
+   background-color: pink;
+  
+   height:100px;
+
+}
+
+#Yog
+{
+  color: pink;
+}
+#body {
+   margin: 0;
+   overflow: hidden;
+   padding: 0;
+   position: relative;
+   width: 100%;
+}
+#body section.header1 {
+   background-color: pink;
+   margin: 0 auto;
+   max-width: none;
+   overflow: hidden;
+   padding: 0;
+}
+#body section.header1 div {
+   margin: 0 auto;
+   max-width: 700px;
+   padding: 0;
+}
+.header1{
+  background-color: pink;
+
+
+}
+body
+{
+   margin-top: 30px;
+   text-align: center;
+
+}
+
+#body div.body {
+   background-color: #ebebed;
+   margin: 0;
+   max-width: none;
+   min-height: 249px;
+   overflow: hidden;
+   padding: 0;
+   width: 100%;
+}
+#body div.footer div.sidebar {
+   background-color: #EFEDEE;
+   float: left;
+   margin: 0 10px 0 40px;
+   padding: 36px 0 34px;
+   width: 280px;
+}
+#body div.footer div.sidebar h1  {
+   display: block;
+   line-height: 48px;
+   margin: 0 auto;
+   padding: 0 0 50px;
+   
+   width: 193px;
+}
+#body div.footer div.sidebar p {
+ display: block;
+   line-height: 48px;
+   margin: 0 auto;
+   text-align: center;
+   width: 169px;
+}
+#body div.footer div h1 {
+   color: #CB3362;
+   font-family: lato-regular-webfont;
+   font-size: 24px;
+   line-height: 24px;
+   margin: 0;
+   padding: 0 0 27px;
+   text-align: left;
+   text-transform: uppercase;
+}
+#body div.footer div p, #body div.footer div span {
+   color: #7A6666;
+   font-family: roboto-regular-webfont;
+   font-size: 14px;
+   font-weight: normal;
+   line-height: 24px;
+   margin: 0;
+   padding: 0 0 24px;
+   text-align: left;
+}
+#body div.footer div span {
+   display: block;
+   margin: 0;
+   padding: 0;
+}
+#body div.footer div p a {
+   color: #7a6666;
+   font-family: roboto-regular-webfont;
+   font-size: 14px;
+   font-weight: normal;
+   line-height: 24px;
+   margin: 0;
+   padding: 0;
+   text-decoration: underline;
+}
+#body div {
+   margin: 0 auto;
+   max-width: 960px;
+   padding: 7px 0 57px;
+}
+#body div ul {
+   display: inline-block;
+   list-style: none outside none;
+   margin: 0;
+   overflow: hidden;
+   padding: 0 0 22px;
+   width: 100%;
+}
+#body div ul li {
+   float: left;
+   margin: 0 10px;
+   padding: 0;
+   width: 220px;
+}
+#body div ul li h1 {
+   color: #E32A62;
+   font-family: magra-bold-webfont;
+   font-size: 28px;
+   font-weight: normal;
+   line-height: 28px;
+   margin: 0;
+   padding: 87px 0 27px 30px;
+   text-align: left;
+   text-transform: capitalize;
+}
+#body div ul li p {
+   color: #7A6666;
+   font-family: roboto-regular-webfont;
+   font-size: 14px;
+   font-weight: normal;
+   line-height: 24px;
+   margin: 0;
+   padding: 0 0 0 30px;
+   text-align: left;
+   width: 190px;
+}
+#body div ul li h2 {
+   color: #e32a62;
+   font-family: lato-regular-webfont;
+   font-size: 20px;
+ line-height: 24px;
+   margin: 0;
+   padding: 0;
+   text-align: center;
+   text-transform: uppercase;
+}
+#body div.blog {
+   margin: 0 auto;
+   max-width: 960px;
+   overflow: hidden;
+   padding: 98px 0 146px;
+}
+#body div.singlepost {
+   margin: 0 auto;
+   max-width: 960px;
+   overflow: hidden;
+   padding: 98px 0 99px;
+}
+#body div.blog .featured {
+   float: left;
+   margin: 0 10px;
+   padding: 0;
+   width: 620px;
+}
+#body div.singlepost .featured {
+   float: left;
+   margin: 0 10px;
+   padding: 0;
+   width: 620px;
+}
+#body div.blog .featured ul {
+   display: inline-block;
+   list-style: none;
+   margin: 0;
+   overflow: hidden;
+   padding: 0;
+   width: 100%;
+}
+#body div.blog .featured ul li {
+   float: none;
+   margin: 0 0 39px;
+   overflow: hidden;
+   padding: 0;
+   width: auto;
+}
+#body div.blog .featured ul li div {
+   float: left;
+   margin: 0;
+   padding: 0 0 36px 10px;
+   width: 370px;
+}
+#body div.blog .featured ul li div h1 {
+   color: #CB3362;
+   font-family: lato-regular-webfont;
+   font-size: 24px;
+   line-height: 24px;
+   margin: 0;
+   padding: 0 0 3px;
+   text-align: left;
+   text-transform: uppercase;
+}
+#body div.blog .featured ul li div span {
+   color: #7A6666;
+   display: block;
+   font-family: roboto-regular-webfont;
+   font-size: 12px;
+   font-weight: normal;
+   line-height: 24px;
+   margin: 0;
+   padding: 0 0 24px;
+   text-align: left;
+   text-transform: none;
+}
+#body div.blog .featured ul li div p {
+   color: #7a6666;
+   font-family: roboto-regular-webfont;
+   font-size: 14px;
+   line-height: 24px;
+   margin: 0;
+   padding: 0 0 39px 0;
+   text-align: left;
+   width: 100%;
+}
+#body div.blog .featured ul li div p a {
+   color: #7a6666;
+   font-family: roboto-regular-webfont;
+   font-size: 14px;
+   line-height: 24px;
+   margin: 0;
+   padding: 0;
+   text-decoration: underline;
+}
+#body div.blog .sidebar {
+   background-color: #EFEDEE;
+   float: left;
+   margin: 0;
+   padding: 0 0 71px;
+   width: 280px;
+}
+#body div.singlepost .sidebar {
+   background-color: #EFEDEE;
+   float: left;
+   margin: 0;
+   padding: 0 0 71px;
+   width: 280px;
+}
+#body div.blog .sidebar h1, #body div.singlepost .sidebar h1 {
+   color: #CB3362;
+   font-family: magra-bold-webfont;
+   font-size: 30px;
+   line-height: 30px;
+   margin: 0;
+   padding: 42px 0 29px;
+   text-align: center;
+   text-transform: capitalize;
+}
+#body div.blog .sidebar img, #body div.singlepost .sidebar img {
+   display: block;
+   margin: 0 auto;
+   padding: 0;
+   width: auto;
+}
+#body div.blog .sidebar h2, #body div.singlepost .sidebar h2 {
+   color: #CB3362;
+   font-family: lato-regular-webfont;
+   font-size: 24px;
+   line-height: 24px;
+   margin: 0;
+   padding: 34px 0 3px;
+   text-align: center;
+   text-transform: uppercase;
+}
+#body div.blog .sidebar span, #body div.singlepost .sidebar span {
+   color: #7A6666;
+   display: block;
+   font-family: roboto-regular-webfont;
+   font-size: 12px;
+   line-height: 24px;
+   margin: 0;
+   padding: 0 0 24px;
+   text-align: center;
+   text-transform: none;
+}
+#body div.blog .sidebar p, #body div.singlepost .sidebar p {
+   color: #7A6666;
+   display: block;
+   font-family: roboto-regular-webfont;
+   font-size: 14px;
+   line-height: 24px;
+   margin: 0 auto;
+   padding: 0 0 64px;
+   text-align: center;
+   text-transform: none;
+   width: 200px;
+}
+#body div.blog .sidebar p a, #body div.singlepost .sidebar p a {
+   color: #7a6666;
+   font-family: roboto-regular-webfont;
+   font-size: 14px;
+   line-height: 24px;
+   margin: 0;
+   padding: 0;
+   text-decoration: underline;
+}
+#body div.singlepost .featured img {
+   display: block;
+   margin: 0;
+   padding: 1px 0 0 30px;
+   width: auto;
+}
+#body div.singlepost .featured h1 {
+   color: #CB3362;
+   font-family: lato-regular-webfont;
+   font-size: 24px;
+   line-height: 24px;
+   margin: 0;
+   padding: 40px 0 4px 30px;
+   text-align: left;
+   text-transform: uppercase;
+}
+#body div.singlepost .featured span {
+   color: #7A6666;
+   display: block;
+   font-family: Arial;
+   font-size: 12px;
+   line-height: 24px;
+   margin: 0;
+   padding: 0 0 23px 30px;
+   text-align: left;
+   text-transform: none;
+}
+#body div.singlepost .featured p {
+   color: #7A6666;
+   font-family: Arial;
+   font-size: 14px;
+   line-height: 24px;
+   margin: 0;
+   padding: 0 0 24px 30px;
+   text-align: left;
+}
+#body div.singlepost .featured p a {
+   color: #7a6666;
+   font-family: Arial;
+   font-size: 14px;
+   line-height: 24px;
+   margin: 0;
+   padding: 0;
+   text-decoration: underline;
+}
+#map
+{
+  
+   margin-left: 50px;
+}
+#contactid{
+   position: relative;
+   left: 50px;
+   text-align: left;
+   font-size: 20px;
+}
+#store
+{
+   text-align: left;
+}
+.navbar-brand
+{
+   padding:0px 0px 0px 0px;
+}
+
+/* --------------------------------------
+   Carousel
+   -------------------------------------- */
+   #myCarousel {
+      margin-top: 60px;
+   }
+
+   .carousel-caption {
+      font-size: 24px;
+   }
+
+   .carousel-caption h4 {
+      font-size: 32px;
+   }
+
+   #myCarousel .item { height: 400px; }
+
+   #slide1 {
+      background: url('../../images/ic_medium.jpg') top center no-repeat;
+   }
+
+   #slide2 {
+      background: url('../../images/icecream_medium.jpg') top center no-repeat;
+   }
+
+   #slide3 {
+      background: url('../../images/ice_medium.jpg') top center no-repeat;
+   }
+
+
+   @media (max-width: 768px) {
+
+      #myCarousel .item { height: 310px; }
+
+      #slide1 {
+         background: url('../../images/ic_small.jpg') top center no-repeat;
+      }
+
+      #slide2 {
+         background: url('../../images/icecream_small.jpg') top center no-repeat;
+      }
+
+      #slide3 {
+         background: url('../../images/ice_small.jpg') top center no-repeat;
+      }
+
+      .carousel-caption {
+         font-size: 16px;
+      }
+
+      .carousel-caption h4 {
+         font-size: 22px;
+      }
+
+   }
+
+
+   @media (min-width: 1200px) {
+
+      #myCarousel .item { height: 500px; }
+
+      #slide1 {
+         background: url('../../images/ic_large.jpg') top center no-repeat;
+      }
+
+      #slide2 {
+         background: url('../../images/icecream_large.jpg') top center no-repeat;
+      }
+
+      #slide3 {
+         background: url('../../images/ice_large.jpg') top center no-repeat;
+      }
+
+   }
+
+
+
+
+
+
+
