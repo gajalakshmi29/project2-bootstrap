@@ -20,7 +20,6 @@ footer {
    height:100px;
 
 }
-
 #Yog
 {
   color: pink;
@@ -46,8 +45,6 @@ footer {
 }
 .header1{
   background-color: pink;
-
-
 }
 body
 {
@@ -55,7 +52,6 @@ body
    text-align: center;
 
 }
-
 #body div.body {
    background-color: #ebebed;
    margin: 0;
@@ -427,6 +423,9 @@ body
 
 
    @media (max-width: 768px) {
+      iframe{
+         width: 300px;
+      }
 
       #myCarousel .item { height: 310px; }
 
@@ -451,8 +450,6 @@ body
       }
 
    }
-
-
    @media (min-width: 1200px) {
 
       #myCarousel .item { height: 500px; }
